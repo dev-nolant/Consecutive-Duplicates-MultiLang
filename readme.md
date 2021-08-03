@@ -22,7 +22,7 @@ Given a string s, consisting of `"X"` and `"Y"`s, delete the minimum number of c
 
 # Languages completed in
 ##### Times based on  [Binary Search's](https://binarysearch.com/problems/Consecutive-Duplicates) run time
-| Language   | Date Completed | Run-Time |
+| -Language-   | -Date Completed- | -Run-Time- |
 |------------|----------------|----------|
 | Python     | 7/31/21        | 5ms      |
 | C++        |                |          |
