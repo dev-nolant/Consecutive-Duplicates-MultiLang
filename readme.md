@@ -20,3 +20,13 @@ Given a string s, consisting of `"X"` and `"Y"`s, delete the minimum number of c
 
 `One solution is to delete the first two "Y"s and the last "X".`
 
+# Languages completed in
+##### Times based on  [Binary Search's](https://binarysearch.com/problems/Consecutive-Duplicates) run time
+| Language   | Date Completed | Run-Time |
+|------------|----------------|----------|
+| Python     | 7/31/21        | 5ms      |
+| C++        |                |          |
+| Java       |                |          |
+| JavaScript |                |          |
+| TypeScript |                |          |
+| Ruby       |                |          |
