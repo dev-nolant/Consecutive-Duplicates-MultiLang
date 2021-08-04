@@ -27,7 +27,7 @@ Given a string s, consisting of `"X"` and `"Y"`s, delete the minimum number of c
 | -Language-   | -Date Completed- | -Run-Time- |
 |------------|----------------|----------|
 | Python     | 7/31/21        | 5ms      |
-| C++        |                |          |
+| C++        |    8/3/21            |       3ms   |
 | Java       | 8/3/21         |  7ms        |
 | JavaScript |                |          |
 | TypeScript |                |          |
