@@ -1,4 +1,4 @@
-# Remove immediate duplicates in a string
+# Remove immediate duplicates in a provided string
 
 class Solution:
     def solve(self, s):
