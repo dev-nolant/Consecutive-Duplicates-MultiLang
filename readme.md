@@ -1,5 +1,7 @@
 # RotatingFan2
 ###### https://www.youtube.com/channel/UCLmpTIXqNMa1WXPK_3-mHTA
+
+### Note: All languages will have documentation/comments explaining how a certain section works.
 ## _Consecutive Duplicates_
 
 Given a string s, consisting of `"X"` and `"Y"`s, delete the minimum number of characters such that there's no consecutive `"X"` and no consecutive `"Y"`.
