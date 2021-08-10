@@ -1,5 +1,6 @@
 # RotatingFan2
 ###### https://www.youtube.com/channel/UCLmpTIXqNMa1WXPK_3-mHTA
+###### https://medium.com/@nolantgaming/how-to-solve-the-consecutive-duplicates-algorithm-the-fastest-way-in-python-c-and-java-79cbb5413ec3
 
 ### Note: All languages will have documentation/comments explaining how a certain section works.
 ## _Consecutive Duplicates_
